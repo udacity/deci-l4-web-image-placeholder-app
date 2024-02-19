@@ -104,8 +104,7 @@ Now that your API is set up and your endpoints are working, it's time to build a
 Using your knowledge of HTML, CSS, and JavaScript, build an attractive frontend that allows users to:
 
 * See available images displayed as a gallery of small uniform images (thumbnails).
-* Select an image for resizing.
-* Set a width and height and then resize the image.
+* Select an image for resizing, set a width and height and receive a URL to request a resized image.
 * Upload new images that are immediately displayed in the image gallery.
 
 As you build your frontend, don't forget to update your README to describe the features you are adding and let users know how to test them.
